@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>trevenque_cache</name>
+	<displayName><![CDATA[Trevenque Cache template]]></displayName>
+	<version><![CDATA[0.9]]></version>
+	<description><![CDATA[Minimal cache system html per category, product, index anonymal request ]]></description>
+	<author><![CDATA[El&iacute;as]]></author>
+	<tab><![CDATA[frontend]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

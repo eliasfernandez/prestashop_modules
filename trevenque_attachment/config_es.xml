@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>trevenque_attachment</name>
+	<displayName><![CDATA[Trevenque Attachment]]></displayName>
+	<version><![CDATA[1.0.1]]></version>
+	<description><![CDATA[Add simple categories to attachment.]]></description>
+	<author><![CDATA[El&iacute;as Fern&aacute;ndez]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
